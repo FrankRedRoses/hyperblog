@@ -4,3 +4,6 @@ Franklin was born in Venezuela and is 33 year old,
 actually he lives in Costa Rica.
 
 Today begins his history in Git and GitHub.
+
+Now he's studing everyday software development, 
+because finally find his passion in life. 
