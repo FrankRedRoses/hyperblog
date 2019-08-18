@@ -7,3 +7,6 @@ Today begins his history in Git and GitHub.
 
 Now he's studing everyday software development, 
 because finally find his passion in life. 
+
+Today he is a Mechanical Engineer, but he doesn't 
+like this career.
