@@ -1,5 +1,6 @@
-Esta es la historia de Franklin.
+This is the history of Franklin.
 
-Franklin nacio en Venezuela y tiene 33 años.
+Franklin was born in Venezuela and is 33 year old,
+actually he lives in Costa Rica.
 
-Hoy empieza su historia en Git.
+Today begins his history in Git and GitHub.
